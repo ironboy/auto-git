@@ -4,7 +4,7 @@
     "branch": "master",
     "run": [
       "npm install",
-      "pm2 restart reverse-proxy"
+      "pm2 restart reverse-proxy --silent"
     ]
   },
   {
@@ -12,7 +12,7 @@
     "branch": "master",
     "run": [
       "npm install",
-      "pm2 restart reverse-proxy"
+      "pm2 restart reverse-proxy --silent"
     ]
   },
   {
@@ -20,7 +20,7 @@
     "branch": "master",
     "run": [
       "npm install",
-      "pm2 restart reverse-proxy"
+      "pm2 restart reverse-proxy --silent"
     ]
   },
   {
@@ -28,7 +28,7 @@
     "branch": "master",
     "run": [
       "npm install",
-      "pm2 restart reverse-proxy"
+      "pm2 restart reverse-proxy --silent"
     ]
   },
   {
@@ -36,7 +36,7 @@
     "branch": "master",
     "run": [
       "npm install",
-      "pm2 restart reverse-proxy"
+      "pm2 restart reverse-proxy --silent"
     ]
   }
 ]
